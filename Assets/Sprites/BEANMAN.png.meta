@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: bfc470aef41859446b2f9c7bd3a98976
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BEANMAN_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1035
+        width: 74
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9f4910c2e651645a0f6c139dd42b13
+      internalID: 107457269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1065
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bb68683b720784aabd51930b362926
+      internalID: 554487407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1058
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3f72d597b16b84692d6649a10fa17d
+      internalID: 961689571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1041
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc99e2ca8287de4aad7ea1e7697251d
+      internalID: 1003842663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1044
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1072a035d0c321b4abec0bb816d15256
+      internalID: -157049709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1044
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ab5f37f4da3ae46bf0ccfce98cfd3f
+      internalID: 458845506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 982
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6beb3ff06883eb4f847c0a1264f0d96
+      internalID: 1341566448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1032
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37405b7c957225c4c9d5d3902cb528be
+      internalID: 505196512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1034
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbca922a98870e44386bd4dc116f6dc4
+      internalID: -1823403604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1036
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003f9b3a83d18354796f4f8c79aa5038
+      internalID: -670778860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 877
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153e240959ff68d46b7a54fdd14cf970
+      internalID: 1777602651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 44
+        width: 564
+        height: 991
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83b9f1b57aa8114e8cbfad940c45481
+      internalID: -1779636539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_12
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 885
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1cd33b3fefaa94cae8803392c11333
+      internalID: 1562416446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 143
+        width: 556
+        height: 883
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353f3dd2deb25e14a8e7169bf9f6f932
+      internalID: 497636775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 848
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752b74da3dff54c4eaa1022cc7cca635
+      internalID: 1167782274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_15
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 836
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8c7a9eb909d464b992fcf306c318b4
+      internalID: 919276781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_16
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 685
+        width: 184
+        height: 176
+      alignment: 9
+      pivot: {x: 0.67170316, y: 0.7842203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574c0c60b4511d74bb3f9b8533a8a048
+      internalID: 410846470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 772
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60672e467282b44e8de719027d83f4e
+      internalID: -1500047683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 728
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c6ae34f1a36704389d1fe3f898ce8c
+      internalID: -273043709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 594
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a67cd2dde36c542bfda9aecc646c85
+      internalID: -590912974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_20
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 302
+        width: 56
+        height: 133
+      alignment: 9
+      pivot: {x: 0.80513436, y: 0.92911315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de26fe4c79c310c4d8d154f79637a3b9
+      internalID: 1398405222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_21
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 305
+        width: 43
+        height: 177
+      alignment: 9
+      pivot: {x: 0.25362805, y: 0.94794184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f2b98c30819634189e2b9e907a4764
+      internalID: 1592318469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_22
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 125
+        width: 45
+        height: 150
+      alignment: 9
+      pivot: {x: 0.76773816, y: 0.9417674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cb656d35964c242b4075cc209d47a7
+      internalID: 2048545074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BEANMAN_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 117
+        width: 42
+        height: 159
+      alignment: 9
+      pivot: {x: 0.2522583, y: 0.9236504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e16be6e597a0fc45b63062bff24fc9c
+      internalID: -357491011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BEANMAN_13: 497636775
+      BEANMAN_3: 1003842663
+      BEANMAN_5: 458845506
+      BEANMAN_8: -1823403604
+      BEANMAN_16: 410846470
+      BEANMAN_9: -670778860
+      BEANMAN_20: 1398405222
+      BEANMAN_1: 554487407
+      BEANMAN_17: -1500047683
+      BEANMAN_4: -157049709
+      BEANMAN_2: 961689571
+      BEANMAN_18: -273043709
+      BEANMAN_6: 1341566448
+      BEANMAN_15: 919276781
+      BEANMAN_19: -590912974
+      BEANMAN_0: 107457269
+      BEANMAN_12: 1562416446
+      BEANMAN_22: 2048545074
+      BEANMAN_21: 1592318469
+      BEANMAN_11: -1779636539
+      BEANMAN_23: -357491011
+      BEANMAN_10: 1777602651
+      BEANMAN_14: 1167782274
+      BEANMAN_7: 505196512
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

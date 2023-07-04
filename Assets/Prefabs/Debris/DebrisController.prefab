@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3466102401109521126
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3466102401109521124}
+  - component: {fileID: 3466102401109521127}
+  m_Layer: 0
+  m_Name: DebrisController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3466102401109521124
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3466102401109521126}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -12.141533, y: -0.24094582, z: -3.303022}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3466102401109521127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3466102401109521126}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f320d0c6eac093942a3bd30afb3581ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  settings: {fileID: 11400000, guid: 7bd368f67ecfbf845aca009411ae4bb6, type: 2}
+  bus: {fileID: 0}
+  debrisArray:
+  - {fileID: 1130937447422570867, guid: bbd70aff8d84e044d8369705accb265d, type: 3}
+  - {fileID: 7018441947276010182, guid: 9b2c978c3b9054c458f239d6b7d874af, type: 3}
+  - {fileID: 5172095225054217429, guid: 3158cfcf9e33d9c46b0b6f7c6f11e44c, type: 3}
+  - {fileID: 5924859106989645081, guid: 2f13c255ea60b0a4480b36bdbc247528, type: 3}
+  - {fileID: 3792715495253074365, guid: 792d371a88376534dbebaed4be077d63, type: 3}
+  - {fileID: 5848032536425783974, guid: 95e27569630430c45bad0ee6863e3683, type: 3}
+  spawnRadius: 11.63
+  maxSpawnForce: 1
+  minSpawnForce: 4
+  defaultSpawnRate: 4.2
+  startSpawnRate: 3.5
+  minSpawnRate: 0.25
+  decreaseRate: 0.07
+  explosionEffect: {fileID: 5887788962456242304, guid: 34343cfb60ef2a14b93773fa8c1bf54b, type: 3}
