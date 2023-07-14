@@ -4,12 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Hero
-  - Debris
-  - Bus
-  - Laser
-  - Finish Line
   - Barrier
+  - Bus
+  - Finish Line
+  - Debris
+  - Hero
+  - Laser
   layers:
   - Default
   - TransparentFX

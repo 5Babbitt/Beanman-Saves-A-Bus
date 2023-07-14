@@ -58,11 +58,11 @@ public class ScreenSettings : MonoBehaviour
         filteredResolutions = new List<Resolution>();
 
         resolutionDropdown.ClearOptions();
-        currentRefreshRate = Screen.currentResolution.refreshRate;
+        currentRefreshRate = (float)Screen.currentResolution.refreshRateRatio.value;
 
         for (int i = 0; i < resolutions.Length; i++)
         {
-            if (resolutions[i].refreshRate == currentRefreshRate)
+            if (resolutions[i].refreshRateRatio.value == currentRefreshRate)
                 filteredResolutions.Add(resolutions[i]);
         }
 
@@ -70,7 +70,7 @@ public class ScreenSettings : MonoBehaviour
 
         for (int i = 0; i < filteredResolutions.Count; i++)
         {
-            string resolutionOption = $"{filteredResolutions[i].width}x{filteredResolutions[i].height} {filteredResolutions[i].refreshRate}Hz";
+            string resolutionOption = $"{filteredResolutions[i].width}x{filteredResolutions[i].height} {filteredResolutions[i].refreshRateRatio.value}Hz";
             options.Add(resolutionOption);
 
             if (filteredResolutions[i].width == Screen.width && filteredResolutions[i].height == Screen.height)
